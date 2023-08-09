@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-database/static/css/main.da3089f3.css",
+    "main.js": "/movie-database/static/js/main.7f655e49.js",
+    "index.html": "/movie-database/index.html",
+    "main.da3089f3.css.map": "/movie-database/static/css/main.da3089f3.css.map",
+    "main.7f655e49.js.map": "/movie-database/static/js/main.7f655e49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.7f655e49.js"
+  ]
+}
